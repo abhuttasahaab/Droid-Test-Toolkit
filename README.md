@@ -53,4 +53,4 @@ The tools included in this kit are brand-agnostic and fully functional across cu
 **If this repository helped you, please consider giving the repository a ⭐!**
 
 ---
-**👨‍💻 Credits & Support:** [A Bhutta](https://github.com/theabhutta)
+**👨‍💻 Credits & Support:** [A Bhutta](https://github.com/abhuttasahaab)
